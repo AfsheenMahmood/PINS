@@ -1,0 +1,5 @@
+{
+  "name": "PinMeta - Metadata-Driven Pinterest Clone",
+  "description": "A high-performance Pinterest-style prototype focusing on metadata analytics, similarity scoring, and synthetic scale simulation.",
+  "requestFramePermissions": []
+}
